@@ -31,15 +31,15 @@ module.exports = {
     {
         authentication: {
             options: {
-                userName: 'u075ad515ee9', // update me
-                password: 'RbZlBZwiUcL2D0whLiMD0c8Jxp6J84o9MPC/b9JMEDcZg/BckbpDyw==' // update me
+                userName: 'u07', // update me
+                password: 'RbZ/b9JMEDcZg/BckbpDyw==' // update me
             },
             type: 'default'
         },
-        server: 'azugessqlpreview.database.windows.net', // update me
+        server: 'azugiew.database.windows.net', // update me
         options:
         {
-            database: 'resource_master', //update me
+            database: 'resource', //update me
             encrypt: true
         }
     }
