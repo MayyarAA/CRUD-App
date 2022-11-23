@@ -18,7 +18,7 @@
     "react-hot-loader": "^4.12.15",
     "sails": "^1.2.3",
     "sails-hook-orm": "^2.1.1",
-    "sails-hook-sockets": "^2.0.0",
+    "sails-hook-sockets": "^2.0.3",
     "sails-hook-webpack4": "^1.0.1",
     "tedious": "^6.4.0"
   },
