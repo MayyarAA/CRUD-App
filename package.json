@@ -16,7 +16,7 @@
     "react-app-polyfill": "^1.0.4",
     "react-dom": "^16.10.2",
     "react-hot-loader": "^4.12.15",
-    "sails": "^1.2.3",
+    "sails": "^1.5.4",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
     "sails-hook-webpack4": "^1.0.1",
